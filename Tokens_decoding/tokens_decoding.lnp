@@ -1,0 +1,8 @@
+--cpu ARM7TDMI
+".\startup.o"
+".\main.o"
+".\string.o"
+--strict --scatter ".\tokens_decoding.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\tokens_decoding.map" -o .\tokens_decoding.axf

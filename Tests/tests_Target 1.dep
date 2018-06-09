@@ -1,0 +1,11 @@
+Dependencies for Project 'tests', Target 'Target 1': (DO NOT MODIFY !)
+F (.\main.c)(0x5B1AE82F)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (\\Mac\Dokumenty\Studia\Programowanie\C,C++\MiTP\Program obowiazkowy\Tests\string.h)(0x5B141CC2)
+I (\\Mac\Dokumenty\Studia\Programowanie\C,C++\MiTP\Program obowiazkowy\Tests\decoding.h)(0x5B141F55)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C819B4)
+F (.\string.c)(0x5B1ADFE1)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\string.o --omf_browse .\string.crf --depend .\string.d)
+I (\\Mac\Dokumenty\Studia\Programowanie\C,C++\MiTP\Program obowiazkowy\Tests\string.h)(0x5B141CC2)
+F (.\string.h)(0x5B141CC2)()
+F (.\decoding.c)(0x5B1AE488)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\decoding.o --omf_browse .\decoding.crf --depend .\decoding.d)
+I (\\Mac\Dokumenty\Studia\Programowanie\C,C++\MiTP\Program obowiazkowy\Tests\string.h)(0x5B141CC2)
+I (\\Mac\Dokumenty\Studia\Programowanie\C,C++\MiTP\Program obowiazkowy\Tests\decoding.h)(0x5B141F55)

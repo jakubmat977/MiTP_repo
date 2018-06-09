@@ -1,0 +1,17 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+\\Mac\Dokumenty\Studia\Programowanie\C,C++\MiTP\Program obowiazkowy\Tokens_decoding\tokens_decoding.uvproj
+Project File Date:  05/25/2018
+
+<h2>Output:</h2>
+Rebuild target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+compiling string.c...
+linking...
+Program Size: Code=2320 RO-data=32 RW-data=44 ZI-data=1284  
+FromELF: creating hex file...
+".\tokens_decoding.axf" - 0 Errors, 0 Warning(s).
